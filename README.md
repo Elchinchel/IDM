@@ -118,8 +118,7 @@ rm -rf database
 
 Спасибо за исходный код:
 
->[Юрий Юшманов](https://vk.com/llordrall)
-
+>Юрий Юшманов [VK](https://vk.com/lordralinc)  [GitHub](https://github.com/lordralinc)
 
 Спасибо за идеи и помощь в тестировании:
 
